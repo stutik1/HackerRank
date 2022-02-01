@@ -1,14 +1,8 @@
 // https://www.hackerrank.com/challenges/java-if-else/problem
 
-import java.io.*;
-import java.math.*;
-import java.security.*;
-import java.text.*;
 import java.util.*;
-import java.util.concurrent.*;
-import java.util.regex.*;
 
-public class JavaIf_Else {
+public class JavaIfElse {
     private static final Scanner scanner = new Scanner(System.in);
     public static void main(String[] args) {
         Scanner scan=new Scanner(System.in);
